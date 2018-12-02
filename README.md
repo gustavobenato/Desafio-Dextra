@@ -1,6 +1,16 @@
 # Desafio-Dextra
 Projeto desenvolvido para fins avaliativos por parte da empresa Dextra.
 
+COMO FUNCIONA O SISTEMA
+Na tela inicial, é apresentado o cardápio e, abaixo, o pedido do cliente.
+Ao clicar em <Selecionar>, o lanche escolhido é enviado para a tabela Pedido.
+Para adicionar um ingrediente ao lanche, basta clicar em <Editar Lanche>, sendo assim, uma dialog será aberta com a lista de ingredientes disponíveis e abaixo os ingredientes do lanche. Para finalizar a edição do lanche basta clicar em <Salvar>
+O valor total é calculado a cada vez em que adiciona-se ou edita-se um lanche no pedido.
+As promoções são calculadas toda vez que um lanche é editado.
+  
+DESCRIÇÃO DO DESENVOLVEDOR
+O maior foco foi na funcionalidade do sistema, ou seja, a maior parte do tempo foi gasto no back-end da aplicação. No projeto há, também, testes para validar as promoções e para validar o valor do lanche.
+
 #Descrição
 
 Somos uma startup do ramo de alimentos e precisamos de uma aplicação web para gerir nosso negócio. Nossa especialidade é a venda de lanches, de modo que alguns lanches são opções de cardápio e outros podem conter ingredientes personalizados.
